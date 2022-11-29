@@ -247,6 +247,3 @@ input[type=radio]:focus + label::before {
    	box-shadow: 0 0 0 2px #196774;
 }
 
-#contact-body{
-  background-image: url(contact-img-optional2.jpg)
-}
